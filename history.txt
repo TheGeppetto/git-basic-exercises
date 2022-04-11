@@ -1,0 +1,95 @@
+    1  ls
+    2  touch git.txt
+    3  open git.txt
+    4  mkdir gitwork
+    5  cd gitwork
+    6  pwd
+    7  git clone https://github.com/Umuzi-org/Thokozani-Mndebele-219-level-1-programming-katas-python.git
+    8  git status
+    9  ls
+   10  cd Thokozani-Mndebele-219-level-1-programming-katas-python/
+   11  git status
+   12  git config --global user.name "TheGeppetto"
+   13  git config --global user.email thoko266@gmail.com
+   14  git config --list
+   15  pwd
+   16  ls
+   17  cd gitworks
+   18  pwd
+   19  cd gitwork
+   20  ls
+   21  pwd
+   22  cd Thokozani-Mndebele-219-level-1-programming-katas-python/
+   23  touch git.txt
+   24  ls
+   25  git status
+   26  git add .
+   27  git status
+   28  cd gitwork
+   29  ls
+   30  rm -r Thokozani-Mndebele-219-level-1-programming-katas-python/
+   31  rm -r Thokozani-Mndebele-219-level-1-programming-katas-python/
+   32  ls
+   33  ls
+   34  ls -a
+   35  git clone https://github.com/TheGeppetto/badshitcrazycommands.git
+   36  ls
+   37  cd badshitcrazycommands/
+   38  touch test2.txt
+   39  git add .
+   40  git push
+   41  git pull .
+   42  git push .
+   43  git clear 
+   44  git clean
+   45  ls
+   46  mkdir git-basic-exercises
+   47  cd git-basic-exercises/
+   48  git init
+   49  git status
+   50  touch README.md
+   51  ls -a
+   52  git log
+   53  git add .
+   54  git status
+   55  git unstage
+   56  git commit -m "initial commit"
+   57  git log
+   58  nano README.md
+   59  cat README.md
+   60  git status
+   61  git commit -a "second commit"
+   62  git add .
+   63  git commit -a "second commit"
+   64  git commit -a
+   65  nano README.md
+   66  git add .
+   67  git commit -a
+   68  git log
+   69  git checkout 5e451f7ebe1ea2d6ac7af7ed35cff41f641368bd
+   70  cat README.md
+   71  git checkout main
+   72  cat README.md
+   73  git checkout c2e7a250b1ea2061b5ede3a04482ff2410b47805 
+   74  cat README.md
+   75  git checkout
+   76  git checkout main
+   77  git checkout master
+   78  cat README.md
+   79  git branch
+   80  git checkout milkshake-flavours
+   81  git branch milkshake-flavours
+   82  git branch
+   83  git checkout milkshake-flavours
+   84  nano milkshake.md
+   85  git status
+   86  git commit -a
+   87  git add .
+   88  git commit -a
+   89  git log
+   90  git checkout master
+   91  git log
+   92  git branch history
+   93  git checkout history
+   94  git log
+   95  history > history.txt
